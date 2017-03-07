@@ -1,0 +1,22 @@
+
+--- Help Menu ---
+
+From the starting menu, enter one of the provided options to proceed to load the desired type of game or end program.
+Following the end of a game, player will me opted with a menu. Player will be able to return to the main menu, review a log of moves from previous games, or quit.
+
+Input during Gameplay
+	To move a piece, in one line, enter the starting location and the final location separated by a space. For example, for WHITE to open with a double jump with a pawn, enter "e2 e4" without quotes. 
+	To end a game, enter "ff" at any time to forfeit. 
+
+Moves List
+
+	Pawn - The pawn can double jump forward with each pawn's opening move followed by advancing one square. Pawn can only capture another piece if piece is diagonally infront of pawn.
+	Knight - The knight can move in an L shape in any direction. The only piece that can "jump" over other pieces.
+	Rook - The rook may move any number of spaces either horizontally or vertically as long as it is not blocked by another piece.
+	Bishop - The bishop can move any number of spaces diagonally advancing or retreating on the board as long as the path is not blocked.
+	Queen - The queen may move any number of spaces in any continuous direction (Cannot move in one direction and then  change once moved)
+	King - The king may move one space in any direction on the board except whencastling.  The king may never move itself into check.
+
+Addition Info
+
+	You can find the complete rules of chess here: http://www-math.bgsu.edu/~zirbel/chess/BasicChessRules.pdf
